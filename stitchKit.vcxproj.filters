@@ -24,16 +24,7 @@
     <ClCompile Include="SeamsEasyNode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\_library\SMesh.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\_library\SSeamMesh.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="StitchEasyNode.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\_library\SEdgeLoop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="StitchEasyCmd.cpp">
@@ -45,24 +36,21 @@
     <ClCompile Include="StitchEasyCtxCmd.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\_library\SSeamMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\_library\SEdgeLoop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\_library\SMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\_library\SEdgeLoop.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\_library\SPlane.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="SeamsEasyCmd.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="SeamsEasyNode.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\_library\SMesh.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\_library\SSeamMesh.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="StitchEasyNode.h">
@@ -71,16 +59,22 @@
     <ClInclude Include="StitchEasyCmd.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\_library\SShadingGroup.h">
+    <ClInclude Include="StitchEasyCtx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StitchEasyCtxCmd.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\_library\SNode.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="StitchEasyCtx.h">
+    <ClInclude Include="..\_library\SSeamMesh.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="StitchEasyCtxCmd.h">
+    <ClInclude Include="..\_library\SEdgeLoop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\_library\SMesh.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

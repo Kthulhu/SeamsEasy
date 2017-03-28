@@ -1,6 +1,6 @@
 #include "StitchEasyCtxCmd.h"
 #include "StitchEasyNode.h"
-#include "SNode.h"
+#include "../_library/SNode.h"
 
 
 

@@ -341,9 +341,7 @@ xcopy "$(PARAMATRIX_PATH)readme.txt" "$(ProjectDir)release\" /s /i /y</Command>
     <ClInclude Include="..\_library\SEdgeLoop.h" />
     <ClInclude Include="..\_library\SMesh.h" />
     <ClInclude Include="..\_library\SNode.h" />
-    <ClInclude Include="..\_library\SPlane.h" />
     <ClInclude Include="..\_library\SSeamMesh.h" />
-    <ClInclude Include="..\_library\SShadingGroup.h" />
     <ClInclude Include="SeamsEasyCmd.h" />
     <ClInclude Include="SeamsEasyNode.h" />
     <ClInclude Include="StitchEasyCmd.h" />
